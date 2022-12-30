@@ -1,5 +1,6 @@
 {
   "name": "@burrow/storybook-addon-knobs",
+  "author": "Giancarlo Otarola <giancarlo.robledo@burrow.com>",
   "version": "6.3.0-next.0",
   "description": "Storybook addon for editing props",
   "keywords": [
