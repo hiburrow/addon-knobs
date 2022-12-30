@@ -28,7 +28,7 @@
     "start": "concurrently \"npm run storybook -- --no-manager-cache --quiet\" \"npm run build -- --watch\"",
     "build-storybook": "build-storybook",
     "prerelease": "node check-metadata.js",
-    "release": "npm run build && auto shipit --base-branch"
+    "release": "npm run build && auto shipit --base-branch next"
   },
   "dependencies": {
     "copy-to-clipboard": "^3.3.1",
